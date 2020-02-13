@@ -1,0 +1,22 @@
+{
+  "name": "testing-renovate-approve",
+  "version": "1.0.0",
+  "description": "testing renovate auto-approve-merge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "superagent": "^5.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huydinhle/testing-renovate-approve.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huydinhle/testing-renovate-approve/issues"
+  },
+  "homepage": "https://github.com/huydinhle/testing-renovate-approve#readme"
+}
